@@ -4,3 +4,7 @@ wget-log*
 haarcascade/
 faces/
 .ipynb_checkpoints
+models/
+__pycache__/
+.vscode/
+encodings
