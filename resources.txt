@@ -1,1 +1,2 @@
 https://dontrepeatyourself.org/post/face-recognition-with-python-dlib-and-deep-learning/
+https://github.com/python-dontrepeatyourself/Face-Recognition-with-Python-Dlib-and-Deep-Learning
